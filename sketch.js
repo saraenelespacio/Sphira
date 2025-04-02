@@ -41,7 +41,7 @@ function setup() {
   // Create save button
   saveButton = createButton('Save Image');
   saveButton.position(10, height + 160);
-  saveButton.mousePressed(() => saveCanvas('3D_Model', 'png'));
+  saveButton.mousePressed(() => saveCanvas('Sphira', 'png'));
 }
 
 function draw() {
