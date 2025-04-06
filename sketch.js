@@ -7,7 +7,7 @@ let useTexture = true; // Toggle state
 
 function preload() {
   gradient = loadImage('Sphira-logo-36.png');
-  logo = loadModel('Sphira-logo-04.obj', true);
+  logo = loadModel('Sphira-logo-09.obj', true);
 }
 
 function setup() {
